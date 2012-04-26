@@ -16,6 +16,6 @@ Modifications to the Black Glass Growl theme originally by [Ryan Collins](http:/
 ***From Source***
 
 1. Clone the repo
-2. Zipup the contents folder and rename the zip file *BlackGlass.growl*
+2. Zipup the contents folder and rename the zip file *BlackGlass.growlStyle*
 3. Double click to install
 4. Profit
