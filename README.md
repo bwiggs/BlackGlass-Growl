@@ -16,8 +16,8 @@ Modifications to the Black Glass Growl theme originally by [Ryan Collins](http:/
 ***From Source***
 
 1. Clone the repo
-3. In Finder, Double click BlackGlass.growlStyle to install
-4. Profit
+2. In Finder, Double click BlackGlass.growlStyle to install
+3. Profit
 
 # Customizing
 
