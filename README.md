@@ -16,6 +16,13 @@ Modifications to the Black Glass Growl theme originally by [Ryan Collins](http:/
 ***From Source***
 
 1. Clone the repo
-2. Zipup the contents folder and rename the zip file *BlackGlass.growl*
-3. Double click to install
+3. In Finder, Double click BlackGlass.growlStyle to install
 4. Profit
+
+# Customizing
+
+`BlackGlass.growlStyle` is just a directory. Right click and select _Show Package Contents_ to view the guts of this theme.
+
+**Relevant**
+
+- [How to create a WebKit-based Growl style](http://growl.info/documentation/webkit.php)
